@@ -45,14 +45,30 @@ body{
 
 article{
   display: none;
+}
+
+article.visible{
   width: 100%;
   height: -webkit-fill-available;
+  display: inline-block;
 }
 
 h1{ text-transform: uppercase; }
 
+.centered-block{
+  text-align: center;
+  position: absolute;
+  left: 0;
+  right: 0;
+}
 #first-page{
-  background-image: url(../images/first-page-bg.jpeg);
-  background-size: 100%;
-  background-repeat: no-repeat;
+  background-color: #000;
+}
+#first-page h1{
+  color: #FFEB3B;
+  font-size: 7em;
+}
+#first-page h2{
+  color: #FFF;
+  font-size: 5em;
 }
