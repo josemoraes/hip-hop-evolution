@@ -32,8 +32,27 @@ body{
 }
 
 .container{
+  display: block;
   max-width: 90%;
   width: 100%;
   padding: 0 15px;
+  margin: 0 auto;
 }
 
+.visible{
+  display: block;
+}
+
+article{
+  display: none;
+  width: 100%;
+  height: -webkit-fill-available;
+}
+
+h1{ text-transform: uppercase; }
+
+#first-page{
+  background-image: url(../images/first-page-bg.jpeg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}

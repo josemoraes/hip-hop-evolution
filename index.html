@@ -6,12 +6,21 @@
   <link rel="stylesheet" href="assets/css/main.css">
 </head>
 <body>
-<article></article>
-<article></article>
-<article></article>
-<article></article>
-<article></article>
-<article></article>
-<script src="assets/js/main.js"></script>
+  <article id="first-page" class="visible" data-next="second-page">
+    <div class="container">
+      <h1 class="lilita">Hip Hop Evolution</h1>
+      <h2 class="amatic">The history in a timeline</h2>
+    </div>
+  </article>
+  <article id="second-page" data-prev="first-page" data-next="third-page">
+    <h2>Oloko bixo</h2>
+  </article>
+  <article id="third-page" data-prev="second-page" data-next="fourth-page"></article>
+  <article id="fourth-page" data-prev="third-page" data-next="fiveth-page"></article>
+  <article id="fiveth-page" data-prev="fourth-page" data-next="sixth-page"></article>
+  <article id="sixth-page" data-prev="fiveth-page" data-next="seventh-page"></article>
+  <article id="seventh-page" data-prev="sixth-page"></article>
+
+  <script src="assets/js/main.js"></script>
 </body>
 </html>
