@@ -57,21 +57,21 @@ This content will be used in a lecture about this theme at UEL as final presenta
 5.4 HARD KNOCK LIFE - GHETTO VERSION
 > 1998: the beginning of Jay-Z's mainstream breakthrough, where he made his own version of the popular song 'Hard Knock Life' from the play Annie.
 
-#### 5. To the World (part 2)
+#### 6. To the World (part 2)
 
-5.6 EMINEM SECURES HIS PLACE
+6.1 EMINEM SECURES HIS PLACE
 > 2000: With the release of his successful 2nd album 'Marshall Mathers LP', this year marks Eminem's place as 'rap's future great' Not only does the title sells 1.76 million copies within the first week, but he later wins two Grammys.
 
-5.7 RAP LEGEND DR. DRE GETS INJURED
+6.2 RAP LEGEND DR. DRE GETS INJURED
 > 2004: During the Vibe Awards ceremony, a man named Jimmy James Johnson goes up to Dr. Dre, as he was getting ready to receive an award. Johnson punches him in the face, which lead to a brutal fight that lead Johnson killed by getting stabbed.
 
-5.8 THANK ME LATER
+6.3 THANK ME LATER
 > 2010: Famous and one of the most infuential hip hop artists of this generation Drake releases his official debut album "Thank me later" - which sold over 447,000 copies and debuted No.1 on the Billboard 200.
 
-5.9 EMINEM PERFORMS TO A CROWD OF 90,000
+6.4 EMINEM PERFORMS TO A CROWD OF 90,000
 > 2014: Eminem headlines Wembley Stadium - holding over 90,000 people. He is the first rapper to headline this famous stadium in London, UK.
 
-5.10 WHAT A TIME TO BE ALIVE
+6.5 WHAT A TIME TO BE ALIVE
 > 2015: End of 2014 to now, a year where many famous and the biggest hip hop artists released albums - including: - If you're reading this it's too late, Drake - Dark sky paradise, Big Sean - To pimp a Butterfly, Kendrick Lamar - Sremmlife, Rae Sremmurd - At. Long. Last. ASAP, A$AP Rocky - Fetty Wap (self titled) - Full speed, Kid ink - Pinkprint, Nicki Minaj - Forest hill drive, J. Cole
 
 
