@@ -41,7 +41,10 @@ body{
 
 .visible{
   display: block;
+  transition: 2s all ease;
 }
+.fade-out { opacity: 0; }
+.fade-in { opacity: 1; }
 
 article{
   display: none;
@@ -58,6 +61,24 @@ ul{ padding: 0; }
 
 .block{
   display: flex;
+  border-bottom: 2px solid;
+  margin-bottom: 25px;
+  padding-bottom: 25px;
+}
+
+.block .year{
+  font-size: 2em;
+  color: #ffc800;
+  margin-right: 20px;
+  text-shadow: 2px 2px 1px #000;
+}
+
+.block h3{
+  font-size: 1.5em;
+}
+
+.block p{
+  font-size: 1.3em;
 }
 
 .block figure{
@@ -74,8 +95,9 @@ ul{ padding: 0; }
 }
 
 .block-title h1 {
-    font-size: 3.5em;
-    border-bottom: 4px solid;
+  font-size: 3.5em;
+  border-bottom: 4px solid;
+  font-size: 'Lilita', sans-serif;
 }
 
 .navigation{
@@ -97,6 +119,14 @@ ul{ padding: 0; }
   color: #FFF;
   text-decoration: none;
   padding: 15px 25px;
+}
+
+.navigation .locator{
+  position: absolute;
+  color: #ffc800;
+  font-size: 2em;
+  top: 35%;
+  right: 5%;
 }
 
 .centered-block{
